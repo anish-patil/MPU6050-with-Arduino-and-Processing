@@ -1,5 +1,5 @@
 
-![MPU 6050](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcircuitdigest.com%2Fmicrocontroller-projects%2Finterfacing-mpu6050-module-with-arduino&psig=AOvVaw0qKY7dA0tQx2RWmp5OQi0_&ust=1682105603641000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICP4-mZuf4CFQAAAAAdAAAAABAL)
+![MPU 6050] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fcircuitdigest.com%2Fmicrocontroller-projects%2Finterfacing-mpu6050-module-with-arduino&psig=AOvVaw0qKY7dA0tQx2RWmp5OQi0_&ust=1682105603641000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICP4-mZuf4CFQAAAAAdAAAAABAL)
 
 # MPU6050-with-Arduino-and-Processing
 
